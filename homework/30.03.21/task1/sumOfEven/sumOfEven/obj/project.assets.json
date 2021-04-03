@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\C#\\homeworks\\30.03.21\\task1\\sumOfEven\\sumOfEven\\sumOfEven.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\30.03.21\\task1\\sumOfEven\\sumOfEven\\sumOfEven.csproj",
       "projectName": "sumOfEven",
-      "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\C#\\homeworks\\30.03.21\\task1\\sumOfEven\\sumOfEven\\sumOfEven.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\30.03.21\\task1\\sumOfEven\\sumOfEven\\sumOfEven.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\C#\\homeworks\\30.03.21\\task1\\sumOfEven\\sumOfEven\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\30.03.21\\task1\\sumOfEven\\sumOfEven\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,8 @@
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {

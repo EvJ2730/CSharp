@@ -19,7 +19,6 @@ namespace sumOfEven
                     Console.Write("---------Even number");
                 }
             }
-
             Console.WriteLine("The Sum of every even muber is: " + sum);
         }
     }
