@@ -11,3 +11,16 @@ C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Deskt
 C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\C#\homeworks\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.pdb
 C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\C#\homeworks\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.genruntimeconfig.cache
 C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\C#\homeworks\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.exe
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.deps.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.runtimeconfig.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.runtimeconfig.dev.json
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\bin\Debug\netcoreapp3.1\sumOfEven.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.AssemblyInfo.cs
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.dll
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.pdb
+C:\Users\User\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\Desktop\eva\seavus\legit GitHub\CSharp\homework\30.03.21\task1\sumOfEven\sumOfEven\obj\Debug\netcoreapp3.1\sumOfEven.genruntimeconfig.cache
