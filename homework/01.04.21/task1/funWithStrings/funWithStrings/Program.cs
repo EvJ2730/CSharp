@@ -47,14 +47,15 @@ namespace funWithStrings
 
             //smallest word
 
+
             //count of words
             int wordCount = 0;
-            for(int i = 0; i<userString.Length-1; i++)
+            for (int i = 0; i < userString.Length - 1; i++)
             {
                 if (userString[i] == ' ' && Char.IsLetter(userString[i + 1]) && i > 0)
                 {
                     wordCount++;
-                    
+
                 }
             }
             wordCount++;
@@ -62,7 +63,7 @@ namespace funWithStrings
 
 
             Console.WriteLine("---------------------------");
-            Console.WriteLine(charsFromString + " : This is the revesed string");//reverse string
+            Console.WriteLine(reverse + " : This is the revesed string");//reverse string
             Console.WriteLine(vowel + " : This is the number of vowels in the string");//total numbers of vowels
 
             //palindrom check
@@ -80,10 +81,10 @@ namespace funWithStrings
             char mostUsedChar = ' ';
             int length = userString.Length;
             int maxCount = -1;
-            for(int i = 0; i<length; i++)
+            for (int i = 0; i < length; i++)
             {
-              charCount[userString[i]]++;
-              if(maxCount< charCount[userString[i]])
+                charCount[userString[i]]++;
+                if (maxCount < charCount[userString[i]])
                 {
                     maxCount = charCount[userString[i]];
                     mostUsedChar = userString[i];
@@ -92,7 +93,7 @@ namespace funWithStrings
 
 
             Console.WriteLine(word + " : This is the largest word");//largest word
-            //Console.WriteLine();//smallest word // ne znam kako da napravam da raboti 
+            //Console.WriteLine( + "This is the smallest word in the string");//smallest word // ne znam kako da napravam da raboti 
             Console.WriteLine(wordCount + " : This is the number of words");//count of words
             Console.WriteLine(mostUsedChar + " : This is the most used character : " + maxCount + $" : This is how many times the {mostUsedChar} is used");//most used character
         }
