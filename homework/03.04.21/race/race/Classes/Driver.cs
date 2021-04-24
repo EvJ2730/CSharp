@@ -14,5 +14,9 @@ namespace race.Classes
             Name = name;
             Skill = skill;
         }
+        Driver driver1 = new Driver("Eva", 5);
+        Driver driver2 = new Driver("Arthur", 2);
+        Driver driver3 = new Driver("Mona", 4);
+        Driver driver4 = new Driver("Bobby", 3);
     }
 }

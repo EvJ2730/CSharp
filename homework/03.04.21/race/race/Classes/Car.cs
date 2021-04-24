@@ -6,7 +6,7 @@ namespace race.Classes
 {
     public class Car 
     {
-        Driver Driver { get; set; }
+        public  Driver Driver { get; set; }
         public string Model { get; set; }
         public int Speed { get; set; }
 
@@ -17,6 +17,7 @@ namespace race.Classes
         }
 
         public int CalculateSpeed() => Driver.Skill * Speed;
+        //public int CalculateSpeed() => Driver.Skill * Speed;
 
     };
 }
