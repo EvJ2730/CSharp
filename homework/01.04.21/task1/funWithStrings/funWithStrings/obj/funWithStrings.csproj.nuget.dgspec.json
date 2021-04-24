@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\funWithStrings.csproj": {}
+    "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\funWithStrings.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\funWithStrings.csproj": {
+    "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\funWithStrings.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\funWithStrings.csproj",
+        "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\funWithStrings.csproj",
         "projectName": "funWithStrings",
-        "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\funWithStrings.csproj",
+        "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\funWithStrings.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\obj\\",
+        "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\GitHub\\CSharp\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

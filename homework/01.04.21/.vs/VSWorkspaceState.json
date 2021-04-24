@@ -6,9 +6,9 @@
     "\\task1",
     "\\task1\\funWithStrings",
     "\\task1\\funWithStrings\\funWithStrings",
-    "\\task2",
+    "\\task2\\ConsoleApp1",
     "\\task2\\removeExtraSpace"
   ],
-  "SelectedNode": "\\task1\\funWithStrings\\funWithStrings",
+  "SelectedNode": "\\task1\\funWithStrings\\funWithStrings\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
