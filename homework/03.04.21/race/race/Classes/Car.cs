@@ -4,20 +4,19 @@ using System.Text;
 
 namespace race.Classes
 {
-    public class Car : Driver
+    public class Car 
     {
+        Driver Driver { get; set; }
         public string Model { get; set; }
         public int Speed { get; set; }
 
-        public Car(string model, int speed)
+        public Car(string model, int speed, Driver driver)
         {
             Model = model;
             Speed = speed;
         }
 
-        public int CalculateSpeed()
-        {
-            return Skill * Speed;
-        }
+        public int CalculateSpeed() => Driver.Skill * Speed;
+
     };
 }
