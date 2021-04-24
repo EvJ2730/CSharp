@@ -11,8 +11,8 @@ namespace race.Classes
 
         public Driver(string name, int skill)
         {
-            name = Name;
-            skill = Skill;
+            Name = name;
+            Skill = skill;
         }
     }
 }

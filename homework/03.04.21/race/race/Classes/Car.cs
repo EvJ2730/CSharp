@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using race.Classes;
+
 namespace race.Classes
 {
     public class Car : Driver
@@ -15,10 +15,9 @@ namespace race.Classes
             Speed = speed;
         }
 
-        public string CalculateSpeed()
+        public int CalculateSpeed()
         {
-            
+            return Skill * Speed;
         }
-
-    }
+    };
 }
