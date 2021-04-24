@@ -34,20 +34,30 @@ namespace funWithStrings
 
             //lagest word
             string[] longestWord = userString.Split(new[] { " " }, StringSplitOptions.None);
-            string word = "";
-            int charachter = 0;
+            string wordForLongest = "";
+            int charachterForLongest = 0;
             foreach (String strings in longestWord)
             {
-                if (strings.Length > charachter)
+                if (strings.Length > charachterForLongest)
                 {
-                    word = strings;
-                    charachter = strings.Length;
+                    wordForLongest = strings;
+                    charachterForLongest = strings.Length;
                 }
             }
 
             //smallest word
-
-
+            string[] smallestWord = userString.Split(new[] { " " }, StringSplitOptions.None);
+            string wordForSmallest = "";
+            int characterForSmallest = 100;
+            foreach(String strings in smallestWord)
+            {
+                if(strings.Length < characterForSmallest)
+                {
+                    wordForSmallest = strings;
+                    characterForSmallest = strings.Length;
+                }
+            }
+            Console.WriteLine(wordForSmallest);
             //count of words
             int wordCount = 0;
             for (int i = 0; i < userString.Length - 1; i++)
@@ -91,11 +101,15 @@ namespace funWithStrings
                 }
             }
 
-
-            Console.WriteLine(word + " : This is the largest word");//largest word
-            //Console.WriteLine( + "This is the smallest word in the string");//smallest word // ne znam kako da napravam da raboti 
-            Console.WriteLine(wordCount + " : This is the number of words");//count of words
-            Console.WriteLine(mostUsedChar + " : This is the most used character : " + maxCount + $" : This is how many times the {mostUsedChar} is used");//most used character
+            //largest word
+            Console.WriteLine(wordForLongest + " : This is the largest word");
+            //smallest word
+            Console.WriteLine(wordForSmallest + " : This is the smallest word in the string"); 
+            //count of words
+            Console.WriteLine(wordCount + " : This is the number of words");
+            //most used character
+            Console.WriteLine(mostUsedChar + " : This is the most used character : " + maxCount + $" : This is how many times the {mostUsedChar} is used");
+            
         }
     }
 }
