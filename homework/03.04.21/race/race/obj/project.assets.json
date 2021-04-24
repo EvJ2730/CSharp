@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\03.04.21\\race\\race\\race.csproj",
+      "projectUniqueName": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\GitHub\\CSharp\\homework\\03.04.21\\race\\race\\race.csproj",
       "projectName": "race",
-      "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\03.04.21\\race\\race\\race.csproj",
+      "projectPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\GitHub\\CSharp\\homework\\03.04.21\\race\\race\\race.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\legit GitHub\\CSharp\\homework\\03.04.21\\race\\race\\obj\\",
+      "outputPath": "C:\\Users\\User\\OneDrive - UKIM - Faculty Of Natural Sciences And Mathematcs\\Desktop\\eva\\seavus\\GitHub\\CSharp\\homework\\03.04.21\\race\\race\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
