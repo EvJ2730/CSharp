@@ -9,20 +9,35 @@ namespace queue
         static void Main(string[] args)
         {
             Console.WriteLine("Please enter a number");
-            int number = Convert.ToInt32(Console.ReadLine());
+            //int number = Convert.ToInt32(Console.ReadLine());
             Queue myQueue = new Queue();
-            foreach(int num in myQueue)
+
+            while (true)
             {
-                
-                if(number < 0)
+                Console.WriteLine("Do you want to enter a new number (Y/N)?");
+                string answer = Console.ReadLine();
+                if (answer == "Y")
                 {
-                    Console.WriteLine("You have entered a wrong number");
+                    Console.WriteLine("Please enter a number");
                 }
                 else
                 {
-                    continue;
+                    break;
                 }
+
             }
+            //foreach(int num in myQueue)
+            //{
+                
+            //    if(number < 0)
+            //    {
+            //        Console.WriteLine("You have entered a wrong number");
+            //    }
+            //    else
+            //    {
+            //        continue;
+            //    }
+            //}
         }
     }
 }

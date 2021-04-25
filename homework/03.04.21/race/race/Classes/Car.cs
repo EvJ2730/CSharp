@@ -14,10 +14,12 @@ namespace race.Classes
         {
             Model = model;
             Speed = speed;
+            Driver = driver;
         }
 
-        public int CalculateSpeed() => Driver.Skill * Speed;
-        //public int CalculateSpeed() => Driver.Skill * Speed;
-
+        public int CalculateSpeed()
+        {
+            return Driver.Skill * Speed;
+        }
     };
 }
