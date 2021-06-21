@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\homework",
+    "\\homework\\01.04.21",
+    "\\homework\\01.04.21\\task1",
+    "\\homework\\01.04.21\\task1\\funWithStrings",
+    "\\homework\\01.04.21\\task2"
   ],
-  "SelectedNode": "\\SwapNumbers.sln",
+  "SelectedNode": "\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings.sln",
   "PreviewInSolutionExplorer": false
 }
