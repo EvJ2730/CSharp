@@ -2,11 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\homework",
-    "\\homework\\01.04.21",
-    "\\homework\\01.04.21\\task1",
-    "\\homework\\01.04.21\\task1\\funWithStrings",
-    "\\homework\\01.04.21\\task2"
+    "\\homework\\Class02_homework",
+    "\\homework\\Class02_homework\\RealCalculator",
+    "\\homework\\Class02_homework\\RealCalculator\\RealCalc"
   ],
-  "SelectedNode": "\\homework\\01.04.21\\task1\\funWithStrings\\funWithStrings.sln",
+  "SelectedNode": "\\homework\\Class02_homework\\RealCalculator\\RealCalc\\RealCalc.csproj",
   "PreviewInSolutionExplorer": false
 }
